@@ -1,0 +1,40 @@
+{
+    "name": "akaroa-theme",
+    "publisher": "igor-couto",
+    "displayName": "Akaroa Theme",
+    "description": "A dark theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Akaroa",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Akaroa-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/igor-couto/vscode-akaroa-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/igor-couto/vscode-akaroa-theme/issues",
+        "email": "igor.fcouto@gmail.com"
+    },
+    "homepage": "https://github.com/igor-couto/vscode-akaroa-theme/blob/master/README.md",
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Akaroa",
+        "Dark"
+    ],
+    "author": "Igor Couto <igor.fcouto@gmail.com>",
+    "license": "MIT"
+}

@@ -109,7 +109,7 @@
             }
         },
         {
-            "name": "Classes, Attributes, Structs",
+            "name": "Classes, Attributes, Structs, Enums",
             "scope": [
                 "entity.name.type.class",
                 "entity.name.type.struct",
@@ -118,7 +118,7 @@
                 "entity.other.attribute-name.table.toml"
             ],
             "settings": {
-                "foreground": "#c297df"
+                "foreground": "#db8137"
             }
         },
         {

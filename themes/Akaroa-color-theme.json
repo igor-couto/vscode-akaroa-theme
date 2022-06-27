@@ -25,11 +25,11 @@
         "editorIndentGuide.background": "#abb2bf13",
         "editor.lineHighlightBackground": "#99BBFF0A",
         "editor.selectionBackground": "#3E4451",
-        "editorCursor.foreground": "#6ea3ff",
+        "editorCursor.foreground": "#FFDC33",
         "editor.findMatchHighlightBackground": "#528BFF3D",
         "editorGroup.border": "#181A1F",
         "editorLineNumber.foreground": "#7c7e80",
-        "editorLineNumber.activeForeground": "#ABB2BF",
+        "editorLineNumber.activeForeground": "#FFDC33",
         "editorWhitespace.foreground": "#ABB2BF26",
         "editorRuler.foreground": "#ABB2BF26",
         "editorHoverWidget.background": "#21252B",
@@ -118,7 +118,7 @@
                 "entity.other.attribute-name.table.toml"
             ],
             "settings": {
-                "foreground": "#db8137"
+                "foreground": "#db8137" //"foreground": "#E05A67"
             }
         },
         {

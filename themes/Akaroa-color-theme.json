@@ -262,6 +262,7 @@
                 "keyword.query.equals.cs",
                 "keyword.query.where.cs",
                 "keyword.operator.expression.void.tsx",
+                "storage.type.built-in.primitive.c",
                 "storage.type.built-in.primitive.cpp",
                 "storage.type.primitive.cpp",
                 "storage.type.function.tsx",
@@ -279,6 +280,15 @@
             ],
             "settings": {
                 "foreground": "#569CD6"
+            }
+        },
+        {
+            "name": "Meta Preprocessor",
+            "scope": [
+                "meta.preprocessor.include.c"
+            ],
+            "settings": {
+                "foreground": "#3f3e36"
             }
         },
         {

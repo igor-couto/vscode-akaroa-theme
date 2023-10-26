@@ -13,7 +13,8 @@
         "terminal.background": "#1a1a1a",
         "terminal.ansiGreen": "#8ACB12",
         "terminal.ansiBrightGreen": "#8ACB12",
-        "terminalCursor.foreground": "#6ea3ff",
+        "terminalCursor.foreground": "#FFDC33",
+        //"terminalCursor.foreground": "#6ea3ff",
         "activityBarBadge.foreground": "#D7DAE0",
         "button.background": "#4D78CC",
         "button.foreground": "#FFFFFF",
@@ -91,7 +92,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#4C5059"
+                "foreground": "#5d616c"
             }
         },
         {
@@ -118,7 +119,7 @@
                 "entity.other.attribute-name.table.toml"
             ],
             "settings": {
-                "foreground": "#db8137" //"foreground": "#E05A67"
+                "foreground": "#C792EA" //"foreground": "#E05A67"
             }
         },
         {

@@ -13,8 +13,7 @@
         "terminal.background": "#1a1a1a",
         "terminal.ansiGreen": "#8ACB12",
         "terminal.ansiBrightGreen": "#8ACB12",
-        "terminalCursor.foreground": "#FFDC33",
-        //"terminalCursor.foreground": "#6ea3ff",
+        "terminalCursor.foreground": "#6ea3ff",
         "activityBarBadge.foreground": "#D7DAE0",
         "button.background": "#4D78CC",
         "button.foreground": "#FFFFFF",
@@ -92,7 +91,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#5d616c"
+                "foreground": "#4C5059"
             }
         },
         {
@@ -119,7 +118,7 @@
                 "entity.other.attribute-name.table.toml"
             ],
             "settings": {
-                "foreground": "#C792EA" //"foreground": "#E05A67"
+                "foreground": "#C792E6"
             }
         },
         {
@@ -263,7 +262,6 @@
                 "keyword.query.equals.cs",
                 "keyword.query.where.cs",
                 "keyword.operator.expression.void.tsx",
-                "storage.type.built-in.primitive.c",
                 "storage.type.built-in.primitive.cpp",
                 "storage.type.primitive.cpp",
                 "storage.type.function.tsx",
@@ -277,7 +275,8 @@
                 "storage.type.type.ts",
                 "variable.language.self.rust",
                 "punctuation.separator.dot.decimal.rust",
-                "storage.type.rust"
+                "storage.type.rust",
+                "keyword.operator.expression.await"
             ],
             "settings": {
                 "foreground": "#569CD6"
